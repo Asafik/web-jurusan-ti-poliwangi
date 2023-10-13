@@ -1,0 +1,9 @@
+ul {
+    list-style-type: square; /* Mengubah tanda bullet menjadi kotak */
+    list-style-image: url('path/to/image.png'); /* Menggunakan gambar sebagai tanda bullet */
+    list-style-position: inside; /* Memindahkan tanda bullet ke dalam list */
+  }
+  
+  li {
+    margin: 10px 0; /* Memberikan jarak antara setiap item list */
+  }
